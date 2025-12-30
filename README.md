@@ -1,24 +1,16 @@
-## Economic Indicators & Inflation Analysis (2010–2025)
+## Visualizations
 
-### Objective
-Analyze global economic trends using GDP, inflation, unemployment,
-and growth data to understand macroeconomic patterns across developed
-and emerging economies.
+### Average GDP by Country (2010–2025)
+![Average GDP](outputs/figures/avg_gdp_by_country.png)
 
-### Dataset
-Source: Kaggle – Economic Indicators & Inflation Data (Adil Shamim)
+### Average Economic Growth by Country (2010–2025)
+![Average Growth](outputs/figures/avg_growth_by_country.png)
 
-### Tools
-- Python (Pandas, Matplotlib)
-- Time Series Analysis
-- Data Visualization (Power BI-style dashboard)
+### Inflation Rate by Country (2024)
+![Inflation 2024](outputs/figures/inflation_by_country_2024.png)
 
-### Key Insights
-- High inflation correlates negatively with economic growth.
-- Emerging economies grow faster but face higher volatility.
-- Canada shows post-COVID recovery with declining inflation and unemployment.
+### Global Inflation vs Economic Growth (2010–2025)
+![Global Trend](outputs/figures/global_inflation_vs_growth_2010_2025.png)
 
-### Files
-- Notebook: data cleaning & analysis
-- Dashboard: visual summary
-- Report: executive insights
+### Canada: Inflation, Unemployment & Economic Growth (2020–2025)
+![Canada](outputs/figures/canada_inflation_unemployment_growth_2020_2025.png)
