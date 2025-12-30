@@ -48,3 +48,9 @@ and relationships across developed and emerging economies.
 ![Canada](outputs/figures/canada_inflation_unemployment_growth_2020_2025.png)
 
 ## Project Structure
+economic-indicators-and-inflation/
+├── data/
+├── notebooks/
+├── outputs/
+│   └── figures/
+└── README.md
