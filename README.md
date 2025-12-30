@@ -30,6 +30,11 @@ and relationships across developed and emerging economies.
 - Canada experienced post-pandemic recovery with declining unemployment
   and moderating inflation after 2022.
 
+## Executive Summary (PDF)
+A concise presentation highlighting key findings and insights.
+
+[View executive summary](report/economic_indicators_inflation_summary.pdf)
+
 ## Visualizations
 
 ### Average GDP by Country (2010–2025)
